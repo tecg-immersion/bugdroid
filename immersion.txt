@@ -1,0 +1,18 @@
+Connaissez-vous BugDroid ?
+
+BugDroid est le petit robot vert utilisé par Google pour présenter Android. 
+	    
+Le fait qu'il soit un personnage virtuel ne l'empêche pas de faire du sport. Il pratique le Sk8board à un niveau frisant l'excellence.
+
+Cette petite démonstration ne nous dévoile qu'une infime partie de son immense talent.
+	   
+"bugSkate.png"
+"BugDroid, un petit robot vert, sautant sur son skate board">
+	    	
+BugDroid sur son Sk8board
+	    	
+JE DÉCOUVRE&nbsp;►
+"http://www.bugdroid.fr" 
+"vers le site officiel de BugDroid"
+
+Petite démo réalisée dans le cadre de la journée immersion le 28 mars 2017
